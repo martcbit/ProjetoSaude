@@ -17,4 +17,4 @@ O sistema terá acesso gratuito, porém limitado, e acesso ilimitado para assina
 * **Fernando Eulálio** - [FernandoENF](https://github.com/FernandoENF)
 * **Luis Belisario** - [luisbelisario](https://github.com/luisbelisario)
 * **Allyson Martins** - [martcbit](https://github.com/martcbit)
-* **Tao Hansen** - [Tao](https://github.com/)
+* **Tao Hansen** - [Tao do Hansen](https://github.com/)
