@@ -14,4 +14,6 @@ O sistema terá acesso gratuito, porém limitado, e acesso ilimitado para assina
 
 * **Matheus Magno** - [Mathewsmag](https://github.com/Mathewsmag)
 * **Fernando Eulálio** - [FernandoENF](https://github.com/FernandoENF)
-* **Luis Belisario** -[luisbelisario](https://github.com/luisbelisario)
+* **Luis Belisario** - [luisbelisario](https://github.com/luisbelisario)
+* **Allyson Martins** - [martcbit](https://github.com/martcbit)
+* **Tao Hansen** - [Tao](https://github.com/)
